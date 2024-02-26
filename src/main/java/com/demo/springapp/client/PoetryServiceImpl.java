@@ -9,6 +9,7 @@ public class PoetryServiceImpl implements PoetryService {
     private final AiClient aiClient = null;
 
     // constructor
+    
 
     @Override
     public String getCatHaiku() {
